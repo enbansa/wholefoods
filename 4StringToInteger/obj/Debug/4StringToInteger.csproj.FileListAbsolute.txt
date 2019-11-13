@@ -1,0 +1,6 @@
+C:\Users\anshu\source\repos\AutomationClass\4StringToInteger\bin\Debug\4StringToInteger.exe.config
+C:\Users\anshu\source\repos\AutomationClass\4StringToInteger\bin\Debug\4StringToInteger.exe
+C:\Users\anshu\source\repos\AutomationClass\4StringToInteger\bin\Debug\4StringToInteger.pdb
+C:\Users\anshu\source\repos\AutomationClass\4StringToInteger\obj\Debug\4StringToInteger.exe
+C:\Users\anshu\source\repos\AutomationClass\4StringToInteger\obj\Debug\4StringToInteger.pdb
+C:\Users\anshu\source\repos\AutomationClass\4StringToInteger\obj\Debug\4StringToInteger.csprojAssemblyReference.cache
