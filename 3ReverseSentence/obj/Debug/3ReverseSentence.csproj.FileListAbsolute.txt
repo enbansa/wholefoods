@@ -1,0 +1,6 @@
+C:\Users\anshu\source\repos\AutomationClass\3ReverseSentence\obj\Debug\3ReverseSentence.csprojAssemblyReference.cache
+C:\Users\anshu\source\repos\AutomationClass\3ReverseSentence\bin\Debug\3ReverseSentence.exe.config
+C:\Users\anshu\source\repos\AutomationClass\3ReverseSentence\bin\Debug\3ReverseSentence.exe
+C:\Users\anshu\source\repos\AutomationClass\3ReverseSentence\bin\Debug\3ReverseSentence.pdb
+C:\Users\anshu\source\repos\AutomationClass\3ReverseSentence\obj\Debug\3ReverseSentence.exe
+C:\Users\anshu\source\repos\AutomationClass\3ReverseSentence\obj\Debug\3ReverseSentence.pdb
