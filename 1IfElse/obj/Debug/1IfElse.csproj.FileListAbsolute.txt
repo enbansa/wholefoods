@@ -1,0 +1,6 @@
+C:\Users\anshu\source\repos\AutomationClass\1IfElse\bin\Debug\1IfElse.exe.config
+C:\Users\anshu\source\repos\AutomationClass\1IfElse\bin\Debug\1IfElse.exe
+C:\Users\anshu\source\repos\AutomationClass\1IfElse\bin\Debug\1IfElse.pdb
+C:\Users\anshu\source\repos\AutomationClass\1IfElse\obj\Debug\1IfElse.csprojAssemblyReference.cache
+C:\Users\anshu\source\repos\AutomationClass\1IfElse\obj\Debug\1IfElse.exe
+C:\Users\anshu\source\repos\AutomationClass\1IfElse\obj\Debug\1IfElse.pdb

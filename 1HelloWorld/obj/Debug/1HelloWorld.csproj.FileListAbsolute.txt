@@ -1,0 +1,6 @@
+C:\Users\anshu\source\repos\AutomationClass\1HelloWorld\bin\Debug\1HelloWorld.exe.config
+C:\Users\anshu\source\repos\AutomationClass\1HelloWorld\bin\Debug\1HelloWorld.exe
+C:\Users\anshu\source\repos\AutomationClass\1HelloWorld\bin\Debug\1HelloWorld.pdb
+C:\Users\anshu\source\repos\AutomationClass\1HelloWorld\obj\Debug\1HelloWorld.csprojAssemblyReference.cache
+C:\Users\anshu\source\repos\AutomationClass\1HelloWorld\obj\Debug\1HelloWorld.exe
+C:\Users\anshu\source\repos\AutomationClass\1HelloWorld\obj\Debug\1HelloWorld.pdb
