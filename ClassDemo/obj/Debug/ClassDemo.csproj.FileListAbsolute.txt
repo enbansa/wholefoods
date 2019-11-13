@@ -1,0 +1,6 @@
+C:\Users\anshu\source\repos\AutomationClass\ClassDemo\bin\Debug\ClassDemo.exe.config
+C:\Users\anshu\source\repos\AutomationClass\ClassDemo\bin\Debug\ClassDemo.exe
+C:\Users\anshu\source\repos\AutomationClass\ClassDemo\bin\Debug\ClassDemo.pdb
+C:\Users\anshu\source\repos\AutomationClass\ClassDemo\obj\Debug\ClassDemo.csprojAssemblyReference.cache
+C:\Users\anshu\source\repos\AutomationClass\ClassDemo\obj\Debug\ClassDemo.exe
+C:\Users\anshu\source\repos\AutomationClass\ClassDemo\obj\Debug\ClassDemo.pdb
