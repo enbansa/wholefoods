@@ -1,0 +1,6 @@
+C:\Users\anshu\source\repos\AutomationClass\2AskName\bin\Debug\2AskName.exe.config
+C:\Users\anshu\source\repos\AutomationClass\2AskName\bin\Debug\2AskName.exe
+C:\Users\anshu\source\repos\AutomationClass\2AskName\bin\Debug\2AskName.pdb
+C:\Users\anshu\source\repos\AutomationClass\2AskName\obj\Debug\2AskName.exe
+C:\Users\anshu\source\repos\AutomationClass\2AskName\obj\Debug\2AskName.pdb
+C:\Users\anshu\source\repos\AutomationClass\2AskName\obj\Debug\2AskName.csprojAssemblyReference.cache

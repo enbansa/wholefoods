@@ -1,0 +1,6 @@
+C:\Users\anshu\source\repos\AutomationClass\2ReverseString\bin\Debug\2ReverseString.exe.config
+C:\Users\anshu\source\repos\AutomationClass\2ReverseString\bin\Debug\2ReverseString.exe
+C:\Users\anshu\source\repos\AutomationClass\2ReverseString\bin\Debug\2ReverseString.pdb
+C:\Users\anshu\source\repos\AutomationClass\2ReverseString\obj\Debug\2ReverseString.csprojAssemblyReference.cache
+C:\Users\anshu\source\repos\AutomationClass\2ReverseString\obj\Debug\2ReverseString.exe
+C:\Users\anshu\source\repos\AutomationClass\2ReverseString\obj\Debug\2ReverseString.pdb

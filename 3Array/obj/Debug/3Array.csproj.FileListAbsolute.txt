@@ -1,0 +1,6 @@
+C:\Users\anshu\source\repos\AutomationClass\3Array\bin\Debug\3Array.exe.config
+C:\Users\anshu\source\repos\AutomationClass\3Array\bin\Debug\3Array.exe
+C:\Users\anshu\source\repos\AutomationClass\3Array\bin\Debug\3Array.pdb
+C:\Users\anshu\source\repos\AutomationClass\3Array\obj\Debug\3Array.csprojAssemblyReference.cache
+C:\Users\anshu\source\repos\AutomationClass\3Array\obj\Debug\3Array.exe
+C:\Users\anshu\source\repos\AutomationClass\3Array\obj\Debug\3Array.pdb

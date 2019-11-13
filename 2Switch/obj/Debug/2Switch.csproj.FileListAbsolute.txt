@@ -1,0 +1,6 @@
+C:\Users\anshu\source\repos\AutomationClass\2Switch\bin\Debug\2Switch.exe.config
+C:\Users\anshu\source\repos\AutomationClass\2Switch\bin\Debug\2Switch.exe
+C:\Users\anshu\source\repos\AutomationClass\2Switch\bin\Debug\2Switch.pdb
+C:\Users\anshu\source\repos\AutomationClass\2Switch\obj\Debug\2Switch.exe
+C:\Users\anshu\source\repos\AutomationClass\2Switch\obj\Debug\2Switch.pdb
+C:\Users\anshu\source\repos\AutomationClass\2Switch\obj\Debug\2Switch.csprojAssemblyReference.cache
