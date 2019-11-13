@@ -1,0 +1,6 @@
+C:\Users\anshu\source\repos\AutomationClass\Array\bin\Debug\Array.exe.config
+C:\Users\anshu\source\repos\AutomationClass\Array\bin\Debug\Array.exe
+C:\Users\anshu\source\repos\AutomationClass\Array\bin\Debug\Array.pdb
+C:\Users\anshu\source\repos\AutomationClass\Array\obj\Debug\Array.csprojAssemblyReference.cache
+C:\Users\anshu\source\repos\AutomationClass\Array\obj\Debug\Array.exe
+C:\Users\anshu\source\repos\AutomationClass\Array\obj\Debug\Array.pdb
